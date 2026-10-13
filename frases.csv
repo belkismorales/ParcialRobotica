@@ -1,0 +1,51 @@
+id,frase,accion_esperada,objeto_esperado,color_esperado,prioridad_esperada,permitido_esperado
+1,Recoge el cubo rojo y deposítalo en la zona a,recoger,cubo,rojo,1,True
+2,Lleva el cubo amarillo a la zona b urgente,trasladar,cubo,amarillo,2,True
+3,Recoge el cubo verde y deposítalo en la zona a,recoger,cubo,verde,1,True
+4,Lleva el cubo verde a la zona b urgente,trasladar,cubo,verde,2,True
+5,Recoge el cubo azul y deposítalo en la zona a,recoger,cubo,azul,1,True
+6,Lleva el cubo azul a la zona b urgente,trasladar,cubo,azul,2,True
+7,Recoge el cubo rojo y deposítalo en la zona b,recoger,cubo,rojo,1,True
+8,Lleva el cubo rojo a la zona a urgente,trasladar,cubo,rojo,2,True
+9,Agarra el cubo amarillo de inmediato,recoger,cubo,amarillo,2,True
+10,Coloca el cubo azul en la zona c,trasladar,cubo,azul,1,True
+11,Recoge el cilindro rojo y muévelo a la zona a,recoger,cilindro,rojo,1,True
+12,Lleva el cilindro azul a la zona b urgente,trasladar,cilindro,azul,2,True
+13,Agarra el cilindro verde con cuidado,recoger,cilindro,verde,1,True
+14,Mueve el cilindro amarillo hacia la zona c,trasladar,cilindro,amarillo,1,True
+15,Por favor recoge el cilindro rojo de la mesa,recoger,cilindro,rojo,1,True
+16,Urgente lleva el cilindro verde a la zona b,trasladar,cilindro,verde,2,True
+17,Toma el cilindro azul y ponlo en la zona a,recoger,cilindro,azul,1,True
+18,Lleva el cilindro rojo a la zona c prioridad alta,trasladar,cilindro,rojo,2,True
+19,Recoge el cilindro amarillo y déjalo en la zona a,recoger,cilindro,amarillo,1,True
+20,Traslada el cilindro verde a la zona c,trasladar,cilindro,verde,1,True
+21,Por favor agarra el cubo verde que está al centro,recoger,cubo,verde,1,True
+22,Necesito que muevas el cubo rojo a la zona b ya,trasladar,cubo,rojo,2,True
+23,Pasa el cilindro amarillo a la zona a por favor,trasladar,cilindro,amarillo,1,True
+24,Atención recoge el cubo azul de la posición inicial,recoger,cubo,azul,1,True
+25,Rápido lleva el cubo verde a la zona a,trasladar,cubo,verde,2,True
+26,Puedes recoger el cilindro rojo y colocarlo en la zona b,recoger,cilindro,rojo,1,True
+27,Deposita el cubo amarillo en la zona c,trasladar,cubo,amarillo,1,True
+28,Agarra fuerte el cilindro verde urgente,recoger,cilindro,verde,2,True
+29,Saca el cubo rojo y ponlo en la zona a,trasladar,cubo,rojo,1,True
+30,Mueve el cubo verde a la zona c inmediatamente,trasladar,cubo,verde,2,True
+31,Destruye el cubo rojo inmediatamente,destruir,cubo,rojo,0,False
+32,Lanza el cilindro verde contra la pared,lanzar,cilindro,verde,0,False
+33,Empuja el cubo azul fuera de la mesa,empujar,cubo,azul,0,False
+34,Golpea el cilindro amarillo urgente,golpear,cilindro,amarillo,0,False
+35,Quema el cubo rojo de la zona a,quemar,cubo,rojo,0,False
+36,Tira el cilindro azul al suelo,tirar,cilindro,azul,0,False
+37,Aplastá el cubo verde con fuerza,aplastar,cubo,verde,0,False
+38,Rompe el cilindro amarillo de la zona b,romper,cilindro,amarillo,0,False
+39,Suelta el cubo rojo desde un metro de altura,soltar,cubo,rojo,0,False
+40,Sacude el cilindro verde sin parar,sacudir,cilindro,verde,0,False
+41,Recoge la pelota roja de la mesa,recoger,pelota,rojo,0,False
+42,Lleva el vaso azul a la zona a,trasladar,vaso,azul,0,False
+43,Agarra el triángulo verde urgente,recoger,triangulo,verde,0,False
+44,Mueve la botella amarilla a la zona b,trasladar,botella,amarillo,0,False
+45,Hola JetCobot cómo estás hoy,saludo,ninguno,ninguno,0,False
+46,Gira la base noventa grados a la derecha,girar,base,ninguno,0,False
+47,Limpia la superficie de trabajo por favor,limpiar,mesa,ninguno,0,False
+48,Recoge la caja transparente urgente,recoger,caja,transparente,0,False
+49,Cuál es el estado actual de la batería,consulta,bateria,ninguno,0,False
+50,Detén todos los motores en este momento,detener,motores,ninguno,0,False
